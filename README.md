@@ -1,6 +1,6 @@
 **REST Countries API using ReactJs-SAAS**
 
-About The Project:
+About
 
 This is an application that gives some information about all countries in the world.
 
