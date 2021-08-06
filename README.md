@@ -21,6 +21,16 @@ Built With
 [Rest Countries API] (https://restcountries.eu/)
 [CSS Modules] (https://github.com/css-modules/css-modules)
 
+**Running The App**
+In the project directory, you can run:
+
+npm start
+Runs the app in the development mode. Open http://localhost:3000 to view it in the browser.
+
+npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
 **Future Steps**
 
 Add a map which would focus on the country that user views, probably using React Leaflet.
